@@ -7,9 +7,6 @@ SumStudio 小组寒假库 2019 年
 
 * SincereXIA
 
-  寒假打算学计组、网络、WEB的小白
-
-
 
 ## TODO： 小组项目
 
